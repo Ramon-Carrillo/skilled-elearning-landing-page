@@ -1,0 +1,17 @@
+$button1: hsl(233, 54%, 16%);
+$button1-hover: hsl(234, 25%, 52%);
+$prime-button2: linear-gradient(hsl(322, 87%, 55%), hsl(13, 100%, 64%));
+$button2-hover: linear-gradient(
+    0deg,
+    rgba(255, 255, 255, 0.5),
+    rgba(255, 255, 255, 0.5)
+  ),
+  linear-gradient(180deg, #ff6f48 0%, #f02aa6 100%);
+$button3: linear-gradient(180deg, #4851ff -54.32%, #f02aa6 100%);
+$button3-hover: linear-gradient(
+    0deg,
+    rgba(255, 255, 255, 0.5),
+    rgba(255, 255, 255, 0.5)
+  ),
+  linear-gradient(180deg, #4851ff -54.32%, #f02aa6 100%);
+$white: hsl(0, 0%, 100%);
